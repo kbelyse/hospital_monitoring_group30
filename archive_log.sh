@@ -9,6 +9,8 @@ fi
 
 
 timestamp=$(date "+%Y%m%d_%H%M%S")
+
 archive_file="${log_file}_${timestamp}"
-mv "$log_file" "$archive_file"
-echo "Log file archived as: $archive_file"
+
+	mv "$log_file" "$archive_file"
+	echo "Log file archived as: $archive_file"
