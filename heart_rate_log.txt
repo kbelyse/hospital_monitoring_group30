@@ -1,3 +1,42 @@
+2025-02-05 12:50:29 Monitor Brad 57
+2025-02-05 12:50:30 Monitor Brad 82
+2025-02-05 12:50:31 Monitor Brad 96
+2025-02-05 12:50:32 Monitor Brad 58
+2025-02-05 12:50:33 Monitor Brad 90
+2025-02-05 12:50:34 Monitor Brad 79
+2025-02-05 12:50:35 Monitor Brad 97
+2025-02-05 12:50:36 Monitor Brad 55
+2025-02-05 12:50:37 Monitor Brad 53
+2025-02-05 12:50:38 Monitor Brad 56
+2025-02-05 12:50:39 Monitor Brad 54
+2025-02-05 12:50:40 Monitor Brad 94
+2025-02-05 12:50:41 Monitor Brad 90
+2025-02-05 12:50:42 Monitor Brad 60
+2025-02-05 12:50:43 Monitor Brad 94
+2025-02-05 12:50:44 Monitor Brad 61
+2025-02-05 12:50:46 Monitor Brad 56
+2025-02-05 12:50:47 Monitor Brad 59
+2025-02-05 12:50:48 Monitor Brad 72
+2025-02-05 12:50:49 Monitor Brad 67
+2025-02-05 12:50:50 Monitor Brad 54
+2025-02-05 12:50:51 Monitor Brad 56
+2025-02-05 12:50:52 Monitor Brad 76
+2025-02-05 12:50:53 Monitor Brad 93
+2025-02-05 12:50:54 Monitor Brad 66
+2025-02-05 12:50:55 Monitor Brad 86
+2025-02-05 12:50:56 Monitor Brad 59
+2025-02-05 12:50:57 Monitor Brad 82
+2025-02-05 12:50:58 Monitor Brad 50
+2025-02-05 12:50:59 Monitor Brad 63
+2025-02-05 12:51:00 Monitor Brad 75
+2025-02-05 12:51:01 Monitor Brad 58
+2025-02-05 12:51:02 Monitor Brad 83
+2025-02-05 12:51:03 Monitor Brad 60
+2025-02-05 12:51:04 Monitor Brad 80
+2025-02-05 12:51:05 Monitor Brad 61
+2025-02-05 12:51:06 Monitor Brad 86
+2025-02-05 12:51:07 Monitor Brad 74
+2025-02-05 12:51:08 Monitor Brad 75
 2025-02-05 12:49:28 Device_D 69
 2025-02-05 12:49:29 Device_D 61
 2025-02-05 12:49:31 Device_D 70
@@ -402,3 +441,4 @@
 2025-02-05 13:09:52 Device_J 80
 2025-02-05 13:09:54 Device_J 96
 2025-02-05 13:09:55 Device_J 70
+
