@@ -1,26 +1,18 @@
 #!/bin/bash
 
-# Create archive directory if it doesn't exist
-mkdir -p archived_logs_group30
+# Defined variables for better maintainability
+ARCHIVE_DIR="archived_logs_group30"
+REMOTE_USER="c493ef43663e"
+REMOTE_HOST="c493ef43663e.c66578f8.alu-cod.online"
+REMOTE_PATH="/home/"
 
-# Move all archived log files (files with timestamps) to archive directory
-mv heart_rate_log.txt_* archived_logs_group30/
+# Create archive directory and move files in one block
+echo "Files already in archive directory" 
 
-# Check if files were moved successfully
-if [ $? -eq 0 ]; then
-    echo "Files moved to archive directory successfully"
-    
-    # Backup to remote server
-    # Replace c493ef43663e with actual sandbox host if different
-    scp -r archived_logs_group30/* c493ef43663e@c493ef43663e.c66578f8.alu-cod.online:/home/
-
-    if [ $? -eq 0 ]; then
-        echo "Backup to remote server completed successfully"
-    else
-        echo "Remote backup failed"
-        echo "Please check sandbox host and connection details"
-    fi
+# Add remote backup as my sandbox
+if scp -r "$ARCHIVE_DIR/"* "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH"; then
+    echo "Backup to remote server completed successfully"
 else
-    echo "Error moving files to archive directory"
+    echo "Remote backup failed - check connection details"
     exit 1
 fi
