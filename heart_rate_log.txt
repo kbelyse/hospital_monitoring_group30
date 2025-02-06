@@ -321,3 +321,518 @@
 2025-02-06 12:56:34 Monitor Brad 72
 2025-02-06 12:56:35 MonitorBrad 59
 2025-02-06 12:56:35 Monitor Brad 86
+2025-02-06 12:56:36 MonitorBrad 67
+2025-02-06 12:56:36 Monitor Brad 61
+2025-02-06 12:56:37 MonitorBrad 55
+2025-02-06 12:56:37 Monitor Brad 65
+2025-02-06 12:56:38 MonitorBrad 78
+2025-02-06 12:56:38 Monitor Brad 71
+2025-02-06 12:56:39 MonitorBrad 51
+2025-02-06 12:56:39 Monitor Brad 57
+2025-02-06 12:56:40 MonitorBrad 85
+2025-02-06 12:56:40 Monitor Brad 54
+2025-02-06 12:56:41 MonitorBrad 97
+2025-02-06 12:56:41 Monitor Brad 68
+2025-02-06 12:56:42 MonitorBrad 85
+2025-02-06 12:56:42 Monitor Brad 79
+2025-02-06 12:56:43 MonitorBrad 87
+2025-02-06 12:56:43 Monitor Brad 61
+2025-02-06 12:56:44 MonitorBrad 96
+2025-02-06 12:56:44 Monitor Brad 96
+2025-02-06 12:56:45 MonitorBrad 78
+2025-02-06 12:56:45 Monitor Brad 79
+2025-02-06 12:56:46 MonitorBrad 72
+2025-02-06 12:56:46 Monitor Brad 87
+2025-02-06 12:56:47 MonitorBrad 56
+2025-02-06 12:56:47 Monitor Brad 61
+2025-02-06 12:56:48 MonitorBrad 90
+2025-02-06 12:56:48 Monitor Brad 64
+2025-02-06 12:56:49 MonitorBrad 72
+2025-02-06 12:56:49 Monitor Brad 73
+2025-02-06 12:56:50 MonitorBrad 76
+2025-02-06 12:56:50 Monitor Brad 66
+2025-02-06 12:56:51 MonitorBrad 99
+2025-02-06 12:56:51 Monitor Brad 61
+2025-02-06 12:56:52 MonitorBrad 58
+2025-02-06 12:56:52 Monitor Brad 94
+2025-02-06 12:56:53 MonitorBrad 89
+2025-02-06 12:56:53 Monitor Brad 55
+2025-02-06 12:56:54 MonitorBrad 74
+2025-02-06 12:56:54 Monitor Brad 97
+2025-02-06 12:56:55 MonitorBrad 89
+2025-02-06 12:56:55 Monitor Brad 98
+2025-02-06 12:56:56 MonitorBrad 52
+2025-02-06 12:56:56 Monitor Brad 61
+2025-02-06 12:56:57 MonitorBrad 58
+2025-02-06 12:56:57 Monitor Brad 69
+2025-02-06 12:56:58 MonitorBrad 75
+2025-02-06 12:56:58 Monitor Brad 87
+2025-02-06 12:56:59 MonitorBrad 50
+2025-02-06 12:56:59 Monitor Brad 57
+2025-02-06 12:57:00 MonitorBrad 96
+2025-02-06 12:57:00 Monitor Brad 71
+2025-02-06 12:57:01 MonitorBrad 76
+2025-02-06 12:57:01 Monitor Brad 70
+2025-02-06 12:57:02 MonitorBrad 76
+2025-02-06 12:57:02 Monitor Brad 88
+2025-02-06 12:57:03 MonitorBrad 92
+2025-02-06 12:57:03 Monitor Brad 82
+2025-02-06 12:57:04 MonitorBrad 86
+2025-02-06 12:57:04 Monitor Brad 66
+2025-02-06 12:57:05 MonitorBrad 89
+2025-02-06 12:57:05 Monitor Brad 53
+2025-02-06 12:57:06 MonitorBrad 95
+2025-02-06 12:57:06 Monitor Brad 90
+2025-02-06 12:57:07 MonitorBrad 82
+2025-02-06 12:57:07 Monitor Brad 93
+2025-02-06 12:57:08 MonitorBrad 68
+2025-02-06 12:57:08 Monitor Brad 70
+2025-02-06 12:57:09 MonitorBrad 63
+2025-02-06 12:57:09 Monitor Brad 77
+2025-02-06 12:57:10 MonitorBrad 73
+2025-02-06 12:57:10 Monitor Brad 61
+2025-02-06 12:57:11 MonitorBrad 80
+2025-02-06 12:57:11 Monitor Brad 85
+2025-02-06 12:57:12 MonitorBrad 65
+2025-02-06 12:57:12 Monitor Brad 90
+2025-02-06 12:57:13 MonitorBrad 96
+2025-02-06 12:57:13 Monitor Brad 64
+2025-02-06 12:57:14 MonitorBrad 65
+2025-02-06 12:57:14 Monitor Brad 73
+2025-02-06 12:57:15 MonitorBrad 86
+2025-02-06 12:57:15 Monitor Brad 54
+2025-02-06 12:57:16 MonitorBrad 97
+2025-02-06 12:57:16 Monitor Brad 63
+2025-02-06 12:57:17 MonitorBrad 57
+2025-02-06 12:57:17 Monitor Brad 91
+2025-02-06 12:57:18 MonitorBrad 87
+2025-02-06 12:57:18 Monitor Brad 90
+2025-02-06 12:57:19 MonitorBrad 75
+2025-02-06 12:57:19 Monitor Brad 52
+2025-02-06 12:57:20 MonitorBrad 51
+2025-02-06 12:57:20 Monitor Brad 86
+2025-02-06 12:57:21 MonitorBrad 90
+2025-02-06 12:57:21 Monitor Brad 84
+2025-02-06 12:57:22 MonitorBrad 97
+2025-02-06 12:57:22 Monitor Brad 76
+2025-02-06 12:57:23 MonitorBrad 93
+2025-02-06 12:57:23 Monitor Brad 63
+2025-02-06 12:57:24 MonitorBrad 64
+2025-02-06 12:57:24 Monitor Brad 67
+2025-02-06 12:57:25 MonitorBrad 83
+2025-02-06 12:57:25 Monitor Brad 84
+2025-02-06 12:57:26 MonitorBrad 83
+2025-02-06 12:57:26 Monitor Brad 52
+2025-02-06 12:57:27 MonitorBrad 80
+2025-02-06 12:57:27 Monitor Brad 59
+2025-02-06 12:57:28 MonitorBrad 97
+2025-02-06 12:57:28 Monitor Brad 67
+2025-02-06 12:57:29 MonitorBrad 53
+2025-02-06 12:57:29 Monitor Brad 81
+2025-02-06 12:57:30 MonitorBrad 66
+2025-02-06 12:57:30 Monitor Brad 72
+2025-02-06 12:57:31 MonitorBrad 60
+2025-02-06 12:57:31 Monitor Brad 56
+2025-02-06 12:57:32 MonitorBrad 62
+2025-02-06 12:57:32 Monitor Brad 65
+2025-02-06 12:57:33 MonitorBrad 70
+2025-02-06 12:57:33 Monitor Brad 68
+2025-02-06 12:57:34 MonitorBrad 65
+2025-02-06 12:57:34 Monitor Brad 86
+2025-02-06 12:57:35 MonitorBrad 73
+2025-02-06 12:57:35 Monitor Brad 87
+2025-02-06 12:57:36 MonitorBrad 59
+2025-02-06 12:57:36 Monitor Brad 88
+2025-02-06 12:57:37 MonitorBrad 82
+2025-02-06 12:57:37 Monitor Brad 92
+2025-02-06 12:57:38 MonitorBrad 50
+2025-02-06 12:57:38 Monitor Brad 82
+2025-02-06 12:57:39 MonitorBrad 64
+2025-02-06 12:57:39 Monitor Brad 81
+2025-02-06 12:57:40 MonitorBrad 53
+2025-02-06 12:57:40 Monitor Brad 78
+2025-02-06 12:57:41 MonitorBrad 73
+2025-02-06 12:57:41 Monitor Brad 69
+2025-02-06 12:57:42 MonitorBrad 72
+2025-02-06 12:57:42 Monitor Brad 61
+2025-02-06 12:57:43 MonitorBrad 74
+2025-02-06 12:57:43 Monitor Brad 95
+2025-02-06 12:57:44 MonitorBrad 96
+2025-02-06 12:57:44 Monitor Brad 86
+2025-02-06 12:57:45 MonitorBrad 75
+2025-02-06 12:57:45 Monitor Brad 50
+2025-02-06 12:57:46 MonitorBrad 74
+2025-02-06 12:57:46 Monitor Brad 52
+2025-02-06 12:57:47 MonitorBrad 90
+2025-02-06 12:57:47 Monitor Brad 54
+2025-02-06 12:57:48 MonitorBrad 89
+2025-02-06 12:57:48 Monitor Brad 54
+2025-02-06 12:57:49 MonitorBrad 57
+2025-02-06 12:57:49 Monitor Brad 85
+2025-02-06 12:57:50 MonitorBrad 62
+2025-02-06 12:57:50 Monitor Brad 71
+2025-02-06 12:57:51 MonitorBrad 55
+2025-02-06 12:57:51 Monitor Brad 88
+2025-02-06 12:57:52 MonitorBrad 95
+2025-02-06 12:57:52 Monitor Brad 86
+2025-02-06 12:57:53 MonitorBrad 62
+2025-02-06 12:57:53 Monitor Brad 50
+2025-02-06 12:57:54 MonitorBrad 90
+2025-02-06 12:57:54 Monitor Brad 59
+2025-02-06 12:57:55 MonitorBrad 83
+2025-02-06 12:57:55 Monitor Brad 55
+2025-02-06 12:57:56 MonitorBrad 74
+2025-02-06 12:57:56 Monitor Brad 99
+2025-02-06 12:57:57 MonitorBrad 84
+2025-02-06 12:57:57 Monitor Brad 60
+2025-02-06 12:57:58 MonitorBrad 57
+2025-02-06 12:57:58 Monitor Brad 70
+2025-02-06 12:57:59 MonitorBrad 62
+2025-02-06 12:58:00 Monitor Brad 82
+2025-02-06 12:58:00 MonitorBrad 79
+2025-02-06 12:58:01 Monitor Brad 66
+2025-02-06 12:58:01 MonitorBrad 56
+2025-02-06 12:58:02 Monitor Brad 85
+2025-02-06 12:58:02 MonitorBrad 85
+2025-02-06 12:58:03 Monitor Brad 66
+2025-02-06 12:58:03 MonitorBrad 86
+2025-02-06 12:58:04 Monitor Brad 94
+2025-02-06 12:58:04 MonitorBrad 51
+2025-02-06 12:58:05 Monitor Brad 83
+2025-02-06 12:58:05 MonitorBrad 74
+2025-02-06 12:58:06 Monitor Brad 96
+2025-02-06 12:58:06 MonitorBrad 53
+2025-02-06 12:58:07 Monitor Brad 75
+2025-02-06 12:58:07 MonitorBrad 56
+2025-02-06 12:58:08 Monitor Brad 54
+2025-02-06 12:58:08 MonitorBrad 79
+2025-02-06 12:58:09 Monitor Brad 59
+2025-02-06 12:58:09 MonitorBrad 89
+2025-02-06 12:58:10 Monitor Brad 88
+2025-02-06 12:58:10 MonitorBrad 84
+2025-02-06 12:58:11 Monitor Brad 52
+2025-02-06 12:58:11 MonitorBrad 83
+2025-02-06 12:58:12 Monitor Brad 52
+2025-02-06 12:58:12 MonitorBrad 74
+2025-02-06 12:58:13 Monitor Brad 74
+2025-02-06 12:58:13 MonitorBrad 59
+2025-02-06 12:58:14 Monitor Brad 91
+2025-02-06 12:58:14 MonitorBrad 84
+2025-02-06 12:58:15 Monitor Brad 80
+2025-02-06 12:58:15 MonitorBrad 96
+2025-02-06 12:58:16 Monitor Brad 68
+2025-02-06 12:58:16 MonitorBrad 51
+2025-02-06 12:58:17 Monitor Brad 81
+2025-02-06 12:58:17 MonitorBrad 84
+2025-02-06 12:58:18 Monitor Brad 80
+2025-02-06 12:58:18 MonitorBrad 62
+2025-02-06 12:58:19 Monitor Brad 51
+2025-02-06 12:58:19 MonitorBrad 72
+2025-02-06 12:58:20 Monitor Brad 59
+2025-02-06 12:58:20 MonitorBrad 56
+2025-02-06 12:58:21 Monitor Brad 95
+2025-02-06 12:58:21 MonitorBrad 50
+2025-02-06 12:58:22 Monitor Brad 84
+2025-02-06 12:58:22 MonitorBrad 79
+2025-02-06 12:58:23 Monitor Brad 74
+2025-02-06 12:58:23 MonitorBrad 55
+2025-02-06 12:58:24 Monitor Brad 94
+2025-02-06 12:58:24 MonitorBrad 67
+2025-02-06 12:58:25 Monitor Brad 57
+2025-02-06 12:58:25 MonitorBrad 73
+2025-02-06 12:58:26 Monitor Brad 55
+2025-02-06 12:58:26 MonitorBrad 78
+2025-02-06 12:58:27 Monitor Brad 94
+2025-02-06 12:58:27 MonitorBrad 97
+2025-02-06 12:58:28 Monitor Brad 88
+2025-02-06 12:58:28 MonitorBrad 90
+2025-02-06 12:58:29 Monitor Brad 61
+2025-02-06 12:58:29 MonitorBrad 63
+2025-02-06 12:58:30 Monitor Brad 89
+2025-02-06 12:58:30 MonitorBrad 82
+2025-02-06 12:58:31 Monitor Brad 70
+2025-02-06 12:58:31 MonitorBrad 58
+2025-02-06 12:58:32 Monitor Brad 68
+2025-02-06 12:58:32 MonitorBrad 61
+2025-02-06 12:58:33 Monitor Brad 59
+2025-02-06 12:58:33 MonitorBrad 81
+2025-02-06 12:58:34 Monitor Brad 51
+2025-02-06 12:58:34 MonitorBrad 53
+2025-02-06 12:58:35 Monitor Brad 65
+2025-02-06 12:58:35 MonitorBrad 90
+2025-02-06 12:58:36 Monitor Brad 88
+2025-02-06 12:58:36 MonitorBrad 67
+2025-02-06 12:58:37 Monitor Brad 63
+2025-02-06 12:58:37 MonitorBrad 65
+2025-02-06 12:58:38 Monitor Brad 52
+2025-02-06 12:58:38 MonitorBrad 88
+2025-02-06 12:58:39 Monitor Brad 60
+2025-02-06 12:58:39 MonitorBrad 53
+2025-02-06 12:58:40 Monitor Brad 63
+2025-02-06 12:58:40 MonitorBrad 60
+2025-02-06 12:58:41 Monitor Brad 76
+2025-02-06 12:58:41 MonitorBrad 60
+2025-02-06 12:58:42 Monitor Brad 81
+2025-02-06 12:58:42 MonitorBrad 85
+2025-02-06 12:58:43 Monitor Brad 78
+2025-02-06 12:58:43 MonitorBrad 89
+2025-02-06 12:58:44 Monitor Brad 81
+2025-02-06 12:58:44 MonitorBrad 63
+2025-02-06 12:58:45 Monitor Brad 61
+2025-02-06 12:58:45 MonitorBrad 72
+2025-02-06 12:58:46 Monitor Brad 87
+2025-02-06 12:58:46 MonitorBrad 61
+2025-02-06 12:58:47 Monitor Brad 53
+2025-02-06 12:58:47 MonitorBrad 77
+2025-02-06 12:58:48 Monitor Brad 84
+2025-02-06 12:58:48 MonitorBrad 86
+2025-02-06 12:58:49 Monitor Brad 96
+2025-02-06 12:58:49 MonitorBrad 54
+2025-02-06 12:58:50 Monitor Brad 88
+2025-02-06 12:58:50 MonitorBrad 85
+2025-02-06 12:58:51 Monitor Brad 60
+2025-02-06 12:58:51 MonitorBrad 91
+2025-02-06 12:58:52 Monitor Brad 74
+2025-02-06 12:58:52 MonitorBrad 95
+2025-02-06 12:58:53 Monitor Brad 78
+2025-02-06 12:58:53 MonitorBrad 50
+2025-02-06 12:58:54 Monitor Brad 66
+2025-02-06 12:58:54 MonitorBrad 80
+2025-02-06 12:58:55 Monitor Brad 53
+2025-02-06 12:58:55 MonitorBrad 50
+2025-02-06 12:58:56 Monitor Brad 95
+2025-02-06 12:58:56 MonitorBrad 50
+2025-02-06 12:58:57 Monitor Brad 55
+2025-02-06 12:58:57 MonitorBrad 75
+2025-02-06 12:58:58 Monitor Brad 88
+2025-02-06 12:58:58 MonitorBrad 79
+2025-02-06 12:58:59 Monitor Brad 78
+2025-02-06 12:58:59 MonitorBrad 65
+2025-02-06 12:59:00 Monitor Brad 84
+2025-02-06 12:59:00 MonitorBrad 98
+2025-02-06 12:59:01 Monitor Brad 73
+2025-02-06 12:59:01 MonitorBrad 99
+2025-02-06 12:59:02 Monitor Brad 68
+2025-02-06 12:59:02 MonitorBrad 72
+2025-02-06 12:59:03 Monitor Brad 99
+2025-02-06 12:59:03 MonitorBrad 96
+2025-02-06 12:59:04 Monitor Brad 55
+2025-02-06 12:59:04 MonitorBrad 54
+2025-02-06 12:59:05 Monitor Brad 54
+2025-02-06 12:59:05 MonitorBrad 85
+2025-02-06 12:59:06 Monitor Brad 53
+2025-02-06 12:59:06 MonitorBrad 54
+2025-02-06 12:59:07 Monitor Brad 95
+2025-02-06 12:59:07 MonitorBrad 58
+2025-02-06 12:59:08 Monitor Brad 63
+2025-02-06 12:59:08 MonitorBrad 82
+2025-02-06 12:59:09 Monitor Brad 52
+2025-02-06 12:59:09 MonitorBrad 99
+2025-02-06 12:59:10 Monitor Brad 52
+2025-02-06 12:59:10 MonitorBrad 89
+2025-02-06 12:59:11 Monitor Brad 64
+2025-02-06 12:59:11 MonitorBrad 68
+2025-02-06 12:59:12 Monitor Brad 97
+2025-02-06 12:59:12 MonitorBrad 72
+2025-02-06 12:59:13 Monitor Brad 62
+2025-02-06 12:59:13 MonitorBrad 77
+2025-02-06 12:59:14 Monitor Brad 76
+2025-02-06 12:59:14 MonitorBrad 82
+2025-02-06 12:59:15 Monitor Brad 94
+2025-02-06 12:59:15 MonitorBrad 95
+2025-02-06 12:59:16 Monitor Brad 85
+2025-02-06 12:59:16 MonitorBrad 97
+2025-02-06 12:59:17 Monitor Brad 83
+2025-02-06 12:59:17 MonitorBrad 51
+2025-02-06 12:59:18 Monitor Brad 88
+2025-02-06 12:59:18 MonitorBrad 89
+2025-02-06 12:59:19 Monitor Brad 57
+2025-02-06 12:59:19 MonitorBrad 79
+2025-02-06 12:59:20 Monitor Brad 70
+2025-02-06 12:59:20 MonitorBrad 95
+2025-02-06 12:59:21 Monitor Brad 84
+2025-02-06 12:59:21 MonitorBrad 56
+2025-02-06 12:59:22 Monitor Brad 72
+2025-02-06 12:59:22 MonitorBrad 70
+2025-02-06 12:59:23 Monitor Brad 88
+2025-02-06 12:59:23 MonitorBrad 94
+2025-02-06 12:59:24 Monitor Brad 92
+2025-02-06 12:59:24 MonitorBrad 50
+2025-02-06 12:59:25 Monitor Brad 92
+2025-02-06 12:59:25 MonitorBrad 57
+2025-02-06 12:59:26 Monitor Brad 73
+2025-02-06 12:59:26 MonitorBrad 68
+2025-02-06 12:59:27 Monitor Brad 71
+2025-02-06 12:59:27 MonitorBrad 79
+2025-02-06 12:59:28 Monitor Brad 60
+2025-02-06 12:59:28 MonitorBrad 75
+2025-02-06 12:59:29 Monitor Brad 98
+2025-02-06 12:59:29 MonitorBrad 90
+2025-02-06 12:59:30 Monitor Brad 67
+2025-02-06 12:59:30 MonitorBrad 87
+2025-02-06 12:59:31 Monitor Brad 95
+2025-02-06 12:59:31 MonitorBrad 50
+2025-02-06 12:59:32 Monitor Brad 81
+2025-02-06 12:59:32 MonitorBrad 94
+2025-02-06 12:59:33 Monitor Brad 99
+2025-02-06 12:59:33 MonitorBrad 91
+2025-02-06 12:59:34 Monitor Brad 72
+2025-02-06 12:59:34 MonitorBrad 70
+2025-02-06 12:59:35 Monitor Brad 99
+2025-02-06 12:59:35 MonitorBrad 82
+2025-02-06 12:59:36 Monitor Brad 51
+2025-02-06 12:59:36 MonitorBrad 80
+2025-02-06 12:59:37 Monitor Brad 55
+2025-02-06 12:59:37 MonitorBrad 70
+2025-02-06 12:59:38 Monitor Brad 51
+2025-02-06 12:59:38 MonitorBrad 73
+2025-02-06 12:59:39 Monitor Brad 52
+2025-02-06 12:59:39 MonitorBrad 52
+2025-02-06 12:59:40 Monitor Brad 61
+2025-02-06 12:59:40 MonitorBrad 96
+2025-02-06 12:59:41 Monitor Brad 88
+2025-02-06 12:59:41 MonitorBrad 55
+2025-02-06 12:59:42 Monitor Brad 51
+2025-02-06 12:59:42 MonitorBrad 95
+2025-02-06 12:59:43 Monitor Brad 69
+2025-02-06 12:59:43 MonitorBrad 76
+2025-02-06 12:59:44 Monitor Brad 67
+2025-02-06 12:59:44 MonitorBrad 51
+2025-02-06 12:59:45 Monitor Brad 79
+2025-02-06 12:59:45 MonitorBrad 62
+2025-02-06 12:59:46 Monitor Brad 64
+2025-02-06 12:59:46 MonitorBrad 77
+2025-02-06 12:59:47 Monitor Brad 89
+2025-02-06 12:59:47 MonitorBrad 90
+2025-02-06 12:59:48 Monitor Brad 65
+2025-02-06 12:59:48 MonitorBrad 59
+2025-02-06 12:59:49 Monitor Brad 69
+2025-02-06 12:59:49 MonitorBrad 62
+2025-02-06 12:59:50 Monitor Brad 64
+2025-02-06 12:59:50 MonitorBrad 62
+2025-02-06 12:59:51 Monitor Brad 55
+2025-02-06 12:59:51 MonitorBrad 89
+2025-02-06 12:59:52 Monitor Brad 63
+2025-02-06 12:59:52 MonitorBrad 68
+2025-02-06 12:59:53 Monitor Brad 85
+2025-02-06 12:59:53 MonitorBrad 73
+2025-02-06 12:59:54 Monitor Brad 68
+2025-02-06 12:59:54 MonitorBrad 80
+2025-02-06 12:59:55 Monitor Brad 75
+2025-02-06 12:59:55 MonitorBrad 76
+2025-02-06 12:59:56 Monitor Brad 58
+2025-02-06 12:59:56 MonitorBrad 93
+2025-02-06 12:59:57 Monitor Brad 58
+2025-02-06 12:59:57 MonitorBrad 62
+2025-02-06 12:59:58 Monitor Brad 80
+2025-02-06 12:59:58 MonitorBrad 91
+2025-02-06 12:59:59 Monitor Brad 67
+2025-02-06 12:59:59 MonitorBrad 63
+2025-02-06 13:00:00 Monitor Brad 91
+2025-02-06 13:00:00 MonitorBrad 84
+2025-02-06 13:00:01 Monitor Brad 55
+2025-02-06 13:00:01 MonitorBrad 90
+2025-02-06 13:00:02 Monitor Brad 97
+2025-02-06 13:00:02 MonitorBrad 60
+2025-02-06 13:00:03 Monitor Brad 55
+2025-02-06 13:00:03 MonitorBrad 67
+2025-02-06 13:00:04 Monitor Brad 72
+2025-02-06 13:00:04 MonitorBrad 72
+2025-02-06 13:00:05 Monitor Brad 51
+2025-02-06 13:00:05 MonitorBrad 55
+2025-02-06 13:00:06 Monitor Brad 95
+2025-02-06 13:00:06 MonitorBrad 84
+2025-02-06 13:00:07 Monitor Brad 84
+2025-02-06 13:00:07 MonitorBrad 57
+2025-02-06 13:00:08 Monitor Brad 91
+2025-02-06 13:00:08 MonitorBrad 80
+2025-02-06 13:00:09 Monitor Brad 94
+2025-02-06 13:00:09 MonitorBrad 70
+2025-02-06 13:00:10 Monitor Brad 74
+2025-02-06 13:00:10 MonitorBrad 73
+2025-02-06 13:00:11 Monitor Brad 81
+2025-02-06 13:00:11 MonitorBrad 67
+2025-02-06 13:00:12 Monitor Brad 92
+2025-02-06 13:00:12 MonitorBrad 78
+2025-02-06 13:00:13 Monitor Brad 72
+2025-02-06 13:00:13 MonitorBrad 71
+2025-02-06 13:00:14 Monitor Brad 73
+2025-02-06 13:00:14 MonitorBrad 86
+2025-02-06 13:00:15 Monitor Brad 54
+2025-02-06 13:00:15 MonitorBrad 85
+2025-02-06 13:00:16 Monitor Brad 84
+2025-02-06 13:00:16 MonitorBrad 66
+2025-02-06 13:00:17 Monitor Brad 82
+2025-02-06 13:00:17 MonitorBrad 87
+2025-02-06 13:00:18 Monitor Brad 57
+2025-02-06 13:00:18 MonitorBrad 86
+2025-02-06 13:00:19 Monitor Brad 78
+2025-02-06 13:00:19 MonitorBrad 94
+2025-02-06 13:00:20 Monitor Brad 58
+2025-02-06 13:00:20 MonitorBrad 76
+2025-02-06 13:00:21 Monitor Brad 77
+2025-02-06 13:00:21 MonitorBrad 55
+2025-02-06 13:00:22 Monitor Brad 59
+2025-02-06 13:00:22 MonitorBrad 69
+2025-02-06 13:00:23 Monitor Brad 65
+2025-02-06 13:00:23 MonitorBrad 55
+2025-02-06 13:00:24 Monitor Brad 85
+2025-02-06 13:00:24 MonitorBrad 56
+2025-02-06 13:00:25 Monitor Brad 57
+2025-02-06 13:00:25 MonitorBrad 63
+2025-02-06 13:00:26 Monitor Brad 72
+2025-02-06 13:00:26 MonitorBrad 73
+2025-02-06 13:00:27 Monitor Brad 89
+2025-02-06 13:00:27 MonitorBrad 64
+2025-02-06 13:00:28 Monitor Brad 54
+2025-02-06 13:00:28 MonitorBrad 68
+2025-02-06 13:00:29 Monitor Brad 54
+2025-02-06 13:00:29 MonitorBrad 97
+2025-02-06 13:00:30 Monitor Brad 56
+2025-02-06 13:00:30 MonitorBrad 75
+2025-02-06 13:00:31 Monitor Brad 84
+2025-02-06 13:00:31 MonitorBrad 53
+2025-02-06 13:00:32 Monitor Brad 54
+2025-02-06 13:00:32 MonitorBrad 86
+2025-02-06 13:00:33 Monitor Brad 54
+2025-02-06 13:00:33 MonitorBrad 73
+2025-02-06 13:00:34 Monitor Brad 75
+2025-02-06 13:00:34 MonitorBrad 63
+2025-02-06 13:00:35 Monitor Brad 99
+2025-02-06 13:00:35 MonitorBrad 89
+2025-02-06 13:00:36 Monitor Brad 65
+2025-02-06 13:00:36 MonitorBrad 88
+2025-02-06 13:00:37 Monitor Brad 67
+2025-02-06 13:00:37 MonitorBrad 90
+2025-02-06 13:00:38 Monitor Brad 81
+2025-02-06 13:00:38 MonitorBrad 76
+2025-02-06 13:00:39 Monitor Brad 58
+2025-02-06 13:00:39 MonitorBrad 96
+2025-02-06 13:00:40 Monitor Brad 84
+2025-02-06 13:00:40 MonitorBrad 70
+2025-02-06 13:00:41 Monitor Brad 68
+2025-02-06 13:00:41 MonitorBrad 59
+2025-02-06 13:00:42 Monitor Brad 91
+2025-02-06 13:00:42 MonitorBrad 88
+2025-02-06 13:00:43 Monitor Brad 64
+2025-02-06 13:00:43 MonitorBrad 88
+2025-02-06 13:00:44 Monitor Brad 79
+2025-02-06 13:00:44 MonitorBrad 67
+2025-02-06 13:00:45 Monitor Brad 92
+2025-02-06 13:00:45 MonitorBrad 58
+2025-02-06 13:00:46 Monitor Brad 66
+2025-02-06 13:00:46 MonitorBrad 70
+2025-02-06 13:00:47 Monitor Brad 87
+2025-02-06 13:00:47 MonitorBrad 58
+2025-02-06 13:00:48 Monitor Brad 56
+2025-02-06 13:00:48 MonitorBrad 52
+2025-02-06 13:00:49 Monitor Brad 95
+2025-02-06 13:00:49 MonitorBrad 54
+2025-02-06 13:00:50 Monitor Brad 86
+2025-02-06 13:00:50 MonitorBrad 56
+2025-02-06 13:00:51 Monitor Brad 58
+2025-02-06 13:00:51 MonitorBrad 57
+2025-02-06 13:00:52 Monitor Brad 97
+2025-02-06 13:00:52 MonitorBrad 87
+2025-02-06 13:00:53 Monitor Brad 52
+2025-02-06 13:00:53 MonitorBrad 78
