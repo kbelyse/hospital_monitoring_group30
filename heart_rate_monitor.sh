@@ -1,11 +1,12 @@
 #!/bin/bash
 
 log_file="heart_rate_log.txt"
+# Prompt for the device name
 read -p "Enter device name: " device_name
 
 echo "Logging heart rate data. Press CTRL+C to stop."
 
-
+# Function to generate a random heart rate (between 50 and 100)
 while true; do
     echo "$(date '+%Y-%m-%d %H:%M:%S') $device_name $((RANDOM % 50 + 50))" >> "$log_file"
     sleep 1
