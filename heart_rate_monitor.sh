@@ -2,7 +2,7 @@
 
 log_file="heart_rate_log.txt"
 # Prompt for the device name
-read -p "Enter device name: " device_name
+read -p "Enter device name: " device_namee
 
 echo "Logging heart rate data. Press CTRL+C to stop."
 
